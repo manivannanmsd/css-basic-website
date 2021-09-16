@@ -1,0 +1,153 @@
+body {
+  color: #40514e;
+  margin: 0%;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.top-container {
+  background-color: #c1ffd7;
+  position: relative;
+  padding: 100px;
+}
+
+h1 {
+  border-top-width: 20px;
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+  margin: 10px 60px 0 60px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+p {
+  line-height: 2;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.875rem;
+  padding: 10px;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.25rem;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #24d1d1;
+  padding: 30px 0 40px 0;
+}
+
+.top-cloud {
+  position: relative;
+  left: 350px;
+  top: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 370px;
+}
+
+hr {
+  border: dotted 6px;
+  border-bottom: none;
+  color: #eaf6f6;
+  width: 3%;
+  margin: 100px auto;
+}
+
+.btn {
+  background: #3497d9;
+  background-image: -webkit-linear-gradient(top, #3497d9, #009afa);
+  background-image: -moz-linear-gradient(top, #3497d9, #009afa);
+  background-image: -ms-linear-gradient(top, #3497d9, #009afa);
+  background-image: -o-linear-gradient(top, #3497d9, #009afa);
+  background-image: linear-gradient(to bottom, #3497d9, #009afa);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: "Merriweather", serif;
+  color: #010f03;
+  font-size: 20px;
+  padding: 8px 13px 11px 14px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ebe494;
+  background-image: -webkit-linear-gradient(top, #ebe494, #14faee);
+  background-image: -moz-linear-gradient(top, #ebe494, #14faee);
+  background-image: -ms-linear-gradient(top, #ebe494, #14faee);
+  background-image: -o-linear-gradient(top, #ebe494, #14faee);
+  background-image: linear-gradient(to bottom, #ebe494, #14faee);
+  text-decoration: none;
+}
+
+.contact-msg {
+  width: 30%;
+  margin: 25px auto 60px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.man-img {
+  width: 15%;
+  margin-top: 20px;
+}
+
+.giphy-img {
+  width: 35%;
+  margin: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.cricket-img {
+  width: 25%;
+  margin: auto;
+  float: right;
+  margin-right: 40px;
+}
+
+.btn {
+  color: #11999e;
+}
+
+a {
+  color: #11999e;
+  font-family: "Merriweather", serif;
+  margin: 10px 30px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  color: #eaf6f6;
+  padding: 20px 0 5px 0;
+}
